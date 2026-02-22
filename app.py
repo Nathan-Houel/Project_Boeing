@@ -1,5 +1,5 @@
 '''
-Project Boeing - Flight Operations & Weather Impact Dashboard
+Project Boeing - Flight Operations Dashboard
 
 Houel Nathan - 20 February 2026
 '''
